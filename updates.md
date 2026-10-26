@@ -9,7 +9,7 @@ permalink: /updates/
 </div>
 
 <!-- BEGIN:AUTO-UPDATES -->
-*Rolling window: 2026-09-19 to 2026-10-19. Regenerated weekly from git history.*
+*Rolling window: 2026-09-26 to 2026-10-26. Regenerated weekly from git history.*
 
 ### New guides
 
@@ -24,10 +24,6 @@ permalink: /updates/
 - [Event-Driven Remediation with Azure Service Bus and Ansible]({{ "/README-AIOps-Azure-Service-Bus" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
 - [Unlock AIOps with ServiceNow LEAP and Ansible MCP server]({{ "/README-AIOps-ServiceNow" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
 - [AIOps with Splunk and Event-Driven Ansible]({{ "/README-AIOps-Splunk-ITSI" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
-- [AIOps Ticket Enrichment]({{ "/README-AIOps-Ticket-Enrichment" | relative_url }}): Tighten UC01 opening: drop meta callout, lead with Overview.
-- [Incident and Ticket Enrichment]({{ "/README-AIOps-Use-Case-01-Incident-Ticket-Enrichment" | relative_url }}): Replace UC01 stage locator callouts with a scannable table.
-- [Curated Automation Remediation: From EDA to Orchestrated Automation]({{ "/README-AIOps-Use-Case-04-Curated-Automation-Remediation" | relative_url }}): Position foundational AIOps workflow as the high-level UC04 walkthrough.
-- [Self-healing infrastructure: From EDA to Orchestrated Automation]({{ "/README-AIOps-Use-Case-06-Self-Healing-Infrastructure" | relative_url }}): Drop defensive workshop-appendix fencing from AIOps and UC06.
 - [Windows Certificate Rotation with AI Risk Analysis]({{ "/README-AIOps-Windows-Cert-Rotation" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
 - [AIOps automation with Ansible]({{ "/README-AIOps" | relative_url }}): Clarify 'select from library' with concrete examples
 - [Ansible Development Workspaces]({{ "/README-Ansible-DevSpaces" | relative_url }}): fix: size Red Hat logo for raw markdown rendering (#66)
@@ -61,8 +57,6 @@ permalink: /updates/
 - Enable Gluware partner hero callout and catalog card logos
 - Add Gluware card to catalog with network + WIP tags and partner filter
 - Add WIP Gluware network automation solution guide
-
-_…and 9 more site commits in this window._
 
 <!-- END:AUTO-UPDATES -->
 
