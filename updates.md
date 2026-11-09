@@ -9,7 +9,7 @@ permalink: /updates/
 </div>
 
 <!-- BEGIN:AUTO-UPDATES -->
-*Rolling window: 2026-10-03 to 2026-11-02. Regenerated weekly from git history.*
+*Rolling window: 2026-10-10 to 2026-11-09. Regenerated weekly from git history.*
 
 ### New guides
 
@@ -24,8 +24,6 @@ _No new guides in the last 30 days._
 - [Unlock AIOps with ServiceNow LEAP and Ansible MCP server]({{ "/README-AIOps-ServiceNow" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
 - [AIOps with Splunk and Event-Driven Ansible]({{ "/README-AIOps-Splunk-ITSI" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
 - [Windows Certificate Rotation with AI Risk Analysis]({{ "/README-AIOps-Windows-Cert-Rotation" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
-- [Ansible Development Workspaces]({{ "/README-Ansible-DevSpaces" | relative_url }}): fix: size Red Hat logo for raw markdown rendering (#66)
-- [AI-Assisted Ansible Developer Experience]({{ "/README-Ansible-DevTools" | relative_url }}): fix: size Red Hat logo for raw markdown rendering (#66)
 - [High-Availability Ansible Automation Platform with EDB PostgreSQL Active-Passive DR]({{ "/README-EDB" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
 - [Intelligent Network Automation with Gluware and Ansible]({{ "/README-Gluware-Network-Automation" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
 - [AI Infrastructure Automation with Ansible]({{ "/README-IA" | relative_url }}): fix: size all partner logos for raw markdown rendering (#67)
@@ -42,13 +40,7 @@ _No new guides in the last 30 days._
 
 ### Site and tooling
 
-- Address Satellite guide publish-checklist feedback
-- Cancel in-flight Pages deploys on newer pushes
-- Cross-list LogicMonitor under AIOps and Network automation
-- Add Satellite logos to WIP catalog card
-- Add LogicMonitor logos to WIP catalog card
-- Add Slack/OG social preview image for AAP Guides
-- Mark Satellite CVE guide WIP, catalog it, and add SG review
+_No site or tooling changes in the last 30 days._
 
 <!-- END:AUTO-UPDATES -->
 
